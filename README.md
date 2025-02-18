@@ -18,8 +18,8 @@ Computer Science Student at Indian Institute of Information Technology, Ranchi
   - Machine Learning
   - Deep Learning
   - Neural Networks
-  - Data Analysis
-  - Scientific Computing
+  - Transformers
+  - LLMs
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YugalSingh624&show_icons=true&theme=radical)
