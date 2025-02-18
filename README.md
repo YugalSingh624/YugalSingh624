@@ -30,10 +30,11 @@ Computer Science Student at Indian Institute of Information Technology, Ranchi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YugalSingh624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📌 Popular Repositories
-- **Deep-Learning-Project**: Deep learning concepts implementation
-- **Machine-Learning-Models**: Collection of ML models and algorithms
-- **Portfolio**: Personal portfolio website
+## 📌 My Repositories
+- **Image-Captioning-by-Transformers**: Transformer-based model for generating image captions
+- **Transformer-Based-Machine-Translation**: Neural machine translation using transformer architecture
+- **Dark_to_Bright**: Image enhancement project for dark to bright image conversion
+- **AutoML**: Automated Machine Learning implementation
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YugalSingh624)
