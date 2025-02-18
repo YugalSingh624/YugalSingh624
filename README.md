@@ -25,7 +25,8 @@ Computer Science Student at Indian Institute of Information Technology, Ranchi
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YugalSingh624&show_icons=true&theme=radical)
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YugalSingh624&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YugalSingh624&theme=radical&no-frame=false&no-bg=true&margin-w=4)
