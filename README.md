@@ -12,7 +12,7 @@ Computer Science Student at Indian Institute of Information Technology, Ranchi
 - **Programming Languages:**
   - C/C++
   - Python
-  - HTML/CSS
+  - HTML
   
 - **Machine Learning & AI:**
   - Machine Learning
@@ -25,7 +25,8 @@ Computer Science Student at Indian Institute of Information Technology, Ranchi
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YugalSingh624&show_icons=true&theme=radical)
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://git.io/streak-stats)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-streak-stats.herokuapp.com/?user=YugalSingh624&theme=dark&hide_border=true)](https://git-streak-stats.herokuapp.com/?user=YugalSingh624&theme=dark&hide_border=true)
+
 
 
 ## 🏆 GitHub Trophies
