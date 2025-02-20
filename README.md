@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yugal Singh
 
-Computer Science Student at Indian Institute of Information Technology, Ranchi
+Electronics and Communication Engineer at Indian Institute of Information Technology, Ranchi
 
 ## 🎓 About Me
 - 🔭 I'm currently pursuing my degree in Computer Science
