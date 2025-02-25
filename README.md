@@ -3,7 +3,7 @@
 Electronics and Communication Engineer at Indian Institute of Information Technology, Ranchi
 
 ## 🎓 About Me
-- 🔭 I'm currently pursuing my degree in Computer Science
+- 🔭 I'm currently pursuing my degree in Electronics and Communication Engineering
 - 🌱 I'm passionate about Machine Learning and Deep Learning
 - 👯 Looking to collaborate on innovative ML/DL projects
 - 🤝 Open to opportunities in AI and Software Development
