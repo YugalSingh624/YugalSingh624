@@ -6,7 +6,6 @@ Electronics and Communication Engineer at Indian Institute of Information Techno
 - 🌱 I'm passionate about Machine Learning, Deep Learning, and AI Agent Development
 - 👯 Looking to collaborate on innovative ML/DL projects and AI applications
 - 🤝 Open to opportunities in AI, Software Development, and Agent-based Systems
-- 🏆 Department Rank 11 with CGPA: 8.33
 
 ## 💻 Tech Stack
 
